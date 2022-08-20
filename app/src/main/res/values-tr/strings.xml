@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitMiyim</string>
+    <string name="baslik">FitMiyim BMI Hesaplayıcı</string>
+    <string name="yas">Yaş</string>
+    <string name="boy">Boy</string>
+    <string name="kilo">Kilo</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="fitmisin">FitMisin?</string>
+    <string name="evet">Evet!</string>
+    <string name="hayir">Hayır!</string>
+    <string name="cevap3">Sonuç: İdeal kilonuzun üstündesiniz.\n\nBoyunuza göre vücut ağırlığınızın fazla olduğunu gösterir. Fazla kilolu olma durumu gerekli önlemler alınmadığı takdirde pek çok hastalık için risk faktörü olan obeziteye (şişmanlık) yol açar.</string>
+    <string name="cevap4">Sonuç: Aşırı Şişman (Obez).\n\nBoyunuza göre vücut ağırlığınızın fazla olduğunu bir başka deyişle şişman olduğunuzun bir göstergesidir. Şişmanlık, kalp-damar hastalıkları, diyabet, hipertansiyon v.b. kronik hastalıklar için risk faktörüdür. Bir sağlık kuruluşuna başvurarak hekim / diyetisyen kontrolünde zayıflayarak normal ağırlığa inmeniz sağlığınız açısından çok önemlidir. Lütfen, sağlık kuruluşuna başvurunuz.</string>
+    <string name="lutfenYas">Lütfen yaşınızı giriniz!</string>
+    <string name="lutfenBoy">Lütfen boyunuzu giriniz!</string>
+    <string name="bmi">Vücut kitle endeksiniz</string>
+    <string name="cevap1">Sonuç: İdeal kilonuzun altındasınız.\n\nBoyunuza göre uygun ağırlıkta olmadığınızı, zayıf olduğunuzu gösterir. Zayıflık, bazı hastalıklar için risk oluşturan ve istenmeyen bir durumdur. Boyunuza uygun ağırlığa erişmeniz için yeterli ve dengeli beslenmeli, beslenme alışkanlıklarınızı geliştirmeye özen göstermelisiniz.</string>
+    <string name="cevap2">Sonuç: Kilonuz tamamen normal.\n\nBoyunuza göre uygun ağırlıkta olduğunuzu gösterir. Yeterli ve dengeli beslenerek ve düzenli fiziksel aktivite yaparak bu ağırlığınızı korumaya özen gösteriniz.</string>
+    <string name="lutfenKilo">Lütfen kilonuzu giriniz!</string>
+</resources>
